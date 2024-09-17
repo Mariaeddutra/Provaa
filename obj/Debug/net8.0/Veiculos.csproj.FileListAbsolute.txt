@@ -1,0 +1,7 @@
+C:\Users\maria\Desktop\Veiculos\Veiculos\obj\Debug\net8.0\Veiculos.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\Veiculos\Veiculos\obj\Debug\net8.0\Veiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\Desktop\Veiculos\Veiculos\obj\Debug\net8.0\Veiculos.AssemblyInfoInputs.cache
+C:\Users\maria\Desktop\Veiculos\Veiculos\obj\Debug\net8.0\Veiculos.AssemblyInfo.cs
+C:\Users\maria\Desktop\Veiculos\Veiculos\obj\Debug\net8.0\Veiculos.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Veiculos\Veiculos\obj\Debug\net8.0\Veiculos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\maria\Desktop\Veiculos\Veiculos\obj\Debug\net8.0\Veiculos.MvcApplicationPartsAssemblyInfo.cache
